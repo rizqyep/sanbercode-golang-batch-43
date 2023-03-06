@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Rizqy Eka Putra Rizaldy
+2. Email: rizqyepr@gmail.com
+3. Sistem Operasi yang digunakan: Windows 10, Ubuntu 20 LTS
+4. Akun Github: rizqyep
+5. Akun Telegram: sneakycoder
+6. Status : Bekerja
+7. Umur: 22 Tahun
+8. Pernah menggunakan Go? : Pernah
+9. Bahasa Pemrograman yg pernah dipelajari: JavaScript, TypeScript, PHP, Java, C, C++, Python
+10. Pernah membuat REST API? : Pernah
