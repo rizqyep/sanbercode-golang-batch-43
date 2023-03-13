@@ -101,7 +101,10 @@ func main() {
 	tambahDataFilm("spiderman", "2 jam", "action", "2004", &dataFilm)
 	tambahDataFilm("juon", "2 jam", "horror", "2004", &dataFilm)
 
-	for _, item := range dataFilm {
-		fmt.Println(item)
+	for i, item := range dataFilm {
+		fmt.Printf("%d. %2s %s\n", i+1, "title :", item["title"])
+		fmt.Printf("%2s %s %s jam\n", "", "durasi :", item["jam"])
+		fmt.Printf("%2s %s %s\n", "", "genre :", item["genre"])
+		fmt.Printf("%2s %s %s\n\n", "", "year :", item["tahun"])
 	}
 }
