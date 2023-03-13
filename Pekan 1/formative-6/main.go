@@ -86,7 +86,7 @@ func main() {
 	tambahDataBuah(&buah)
 
 	for i, element := range buah {
-		fmt.Printf("%d. %s", i+1, element)
+		fmt.Printf("%d. %s\n", i+1, element)
 	}
 
 	// Soal 4
